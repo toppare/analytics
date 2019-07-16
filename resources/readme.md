@@ -61,6 +61,8 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [How Bayesian inference works](http://brohrer.github.io/how_bayesian_inference_works.html)
 - [The first three rules of data analysis](https://medium.com/@pete/the-first-three-rules-of-data-analysis-52b1dc9ad321#.ho9q9qw5k)
 - [How to compare apples and oranges](https://clevertap.com/blog/how-to-compare-apples-and-oranges-part-i/)
+- [How Rittman Analytics does Analytics](https://rittmananalytics.com/blog/2019/5/7/how-rittman-analytics)
+- [Five principles that will keep your data warehouse organized](https://blog.fishtownanalytics.com/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
@@ -73,8 +75,14 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [Road Map for Choosing Between Statistical Modeling and Machine Learning
 ](https://www.fharrell.com/post/stat-ml/)
 
+#### Listen
+[Build Your Data Analytics Like An Engineer](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
+
 
 
 ### Slack Groups
-#### Locally Optimistic ([link](https://www.locallyoptimistic.com/community/))
-My favorite 
+#### [Locally Optimistic](https://www.locallyoptimistic.com/community/)
+I follow both the blog and community closely, my favorite slack group so far.
+
+#### [dbt](https://slack.getdbt.com/)
+Another great community but getting crowded and harder to follow. Although dbt is an amazing tool and I strongly recommend to give it a try, if you are not using / interested you might find it a bit hard to distil non-dbt posts in slack.
