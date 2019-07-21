@@ -63,6 +63,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [How to compare apples and oranges](https://clevertap.com/blog/how-to-compare-apples-and-oranges-part-i/)
 - [How Rittman Analytics does Analytics](https://rittmananalytics.com/blog/2019/5/7/how-rittman-analytics)
 - [Five principles that will keep your data warehouse organized](https://blog.fishtownanalytics.com/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce)
+- [Highly Effective Data Science Teams](https://medium.com/mit-media-lab/highly-effective-data-science-teams-e90bb13bb709#.k4eypwyjj)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
@@ -74,6 +75,8 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [Functional Data Engineering - A Set of Best Practices | DataEngConf SF '18](https://www.youtube.com/watch?v=4Spo2QRTz1k)
 - [Road Map for Choosing Between Statistical Modeling and Machine Learning
 ](https://www.fharrell.com/post/stat-ml/)
+- [Inferring the effect of an event using CausalImpact by Kay Brodersen
+](https://www.youtube.com/watch?v=GTgZfCltMm8)
 
 #### Listen
 [Build Your Data Analytics Like An Engineer](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)

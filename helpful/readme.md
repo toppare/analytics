@@ -69,3 +69,30 @@ I am using `Solarized Dark.terminal` theme from [this](https://github.com/lysyi3
 
 Installation:
 download the raw file and change the extension to .terminal and open it up using the terminal. Navigate to preferences and make it default. The prompt is different due to `change prompt` section in .bash_profile file. It will show the active pyenv environment. 
+
+## Setting up pyenv
+
+installation:
+```sh 
+# pyenv installation
+$ brew update
+$ brew install pyenv
+
+
+# pyenv-virtualenv installation
+$ brew install pyenv-virtualenv
+```
+
+
+new environment: 
+```sh
+$ pyenv virtualenv my_env
+```
+
+activate env: 
+```sh
+$ pyenv activate my_env
+```
+
+
+
