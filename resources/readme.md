@@ -64,6 +64,8 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [How Rittman Analytics does Analytics](https://rittmananalytics.com/blog/2019/5/7/how-rittman-analytics)
 - [Five principles that will keep your data warehouse organized](https://blog.fishtownanalytics.com/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce)
 - [Highly Effective Data Science Teams](https://medium.com/mit-media-lab/highly-effective-data-science-teams-e90bb13bb709#.k4eypwyjj)
+- [An Overview of Methods to Address the Multiple Comparison Problem](https://towardsdatascience.com/an-overview-of-methods-to-address-the-multiple-comparison-problem-310427b3ba92)
+- [MECE (Mutually Exclusive Collectively Exhaustive) Framework](https://www.slideshare.net/caseinterview/mece-116332446)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
