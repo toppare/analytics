@@ -3,6 +3,9 @@
 ### Recommended Resources
 #### Read
 - [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
+- [Conversion rates – you are (most likely) computing them wrong](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
+- [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
+- [KPI Principles](https://www.locallyoptimistic.com/post/kpis/)
 - [Does my Startup Data Team Need a Data Engineer?](https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9)
 - [Engineers Shouldn’t Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [One Analyst’s Guide for going from Good to Great](https://blog.fishtownanalytics.com/one-analysts-guide-for-going-from-good-to-great-6697e67e37d9)
@@ -10,8 +13,6 @@
 - [What can data scientists learn from DevOps?](https://redmonk.com/dberkholz/2012/11/06/what-can-data-scientists-learn-from-devops/)
 - [Building a Data Practice from Scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/)
 - [You probably don't need a data dictionary](https://www.locallyoptimistic.com/post/data_dictionaries/)
-- [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
-- [Conversion rates – you are (most likely) computing them wrong](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
 - [Multi-Touch Attribution Implementation and Evaluation Primer](https://www.iab.com/wp-content/uploads/2017/04/IAB_Multi-Touch_Attribution_Primer_2017-04.pdf)
 - [How to Ask an Analyst a Question](https://mode.com/blog/how-to-ask-an-analyst-a-question)
 - [How to Get Lucky: Focus On The Fat Tails](https://taylorpearson.me/luck/)
@@ -21,7 +22,6 @@
 - [The Future of Data Science is Past](http://koaning.io/posts/the-future-is-past/)
 - [Suffering from a Non-inferiority Complex?](https://multithreaded.stitchfix.com/blog/2019/05/06/noninferiority/)
 - [Top 10 Coding Mistakes Made by Data Scientists](https://towardsdatascience.com/top-10-coding-mistakes-made-by-data-scientists-bb5bc82faaee)
-- [KPI Principles](https://www.locallyoptimistic.com/post/kpis/)
 - [Trustworthy A/B Tests: Pitfalls in
 Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17EmetricsControlledExperimentsPitfallsKohaviNR.pdf)
 - [The death of data-scientists](https://medium.com/analytics-and-data/the-death-of-data-scientists-2d0d3289fba5)
