@@ -67,6 +67,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [An Overview of Methods to Address the Multiple Comparison Problem](https://towardsdatascience.com/an-overview-of-methods-to-address-the-multiple-comparison-problem-310427b3ba92)
 - [MECE (Mutually Exclusive Collectively Exhaustive) Framework](https://www.slideshare.net/caseinterview/mece-116332446)
 - [Data as a Product vs. Data as a Service](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
+- [Best practices for data modeling](https://www.stitchdata.com/blog/best-practices-for-data-modeling/)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
