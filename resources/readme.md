@@ -68,6 +68,8 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [MECE (Mutually Exclusive Collectively Exhaustive) Framework](https://www.slideshare.net/caseinterview/mece-116332446)
 - [Data as a Product vs. Data as a Service](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 - [Best practices for data modeling](https://www.stitchdata.com/blog/best-practices-for-data-modeling/)
+- [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+- [Write better SQL: In defense of group by 1](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
