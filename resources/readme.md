@@ -70,6 +70,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [Best practices for data modeling](https://www.stitchdata.com/blog/best-practices-for-data-modeling/)
 - [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 - [Write better SQL: In defense of group by 1](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/)
+- [Top 5 mistakes with statistics in A/B testing](https://towardsdatascience.com/top-5-mistakes-with-statistics-in-a-b-testing-9b121ea1827c)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
