@@ -71,6 +71,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 - [Write better SQL: In defense of group by 1](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/)
 - [Top 5 mistakes with statistics in A/B testing](https://towardsdatascience.com/top-5-mistakes-with-statistics-in-a-b-testing-9b121ea1827c)
+- [Lessons learned as data team manager](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
