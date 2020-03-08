@@ -72,6 +72,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [Write better SQL: In defense of group by 1](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/)
 - [Top 5 mistakes with statistics in A/B testing](https://towardsdatascience.com/top-5-mistakes-with-statistics-in-a-b-testing-9b121ea1827c)
 - [Lessons learned as data team manager](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/)
+- [The Causal Analysis of Cannibalization in Online Products](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
