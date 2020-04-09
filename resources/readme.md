@@ -86,6 +86,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 ](https://www.fharrell.com/post/stat-ml/)
 - [Inferring the effect of an event using CausalImpact by Kay Brodersen
 ](https://www.youtube.com/watch?v=GTgZfCltMm8)
+- [The Power of Bayesian A/B Testing](https://medium.com/convoy-tech/the-power-of-bayesian-a-b-testing-f859d2219d5)
 
 #### Listen
 [Build Your Data Analytics Like An Engineer](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
