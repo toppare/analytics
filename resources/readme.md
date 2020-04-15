@@ -74,6 +74,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [Lessons learned as data team manager](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/)
 - [The Causal Analysis of Cannibalization in Online Products](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 - [Proxy Metrics](https://medium.com/@gibsonbiddle/4-proxy-metrics-a82dd30ca810)
+- [Roles, Teams, Orgs](https://pdtenpas.github.io/pages/bookmarks/roles_teams_orgs/)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
