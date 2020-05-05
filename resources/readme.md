@@ -75,6 +75,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [The Causal Analysis of Cannibalization in Online Products](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 - [Proxy Metrics](https://medium.com/@gibsonbiddle/4-proxy-metrics-a82dd30ca810)
 - [Roles, Teams, Orgs](https://pdtenpas.github.io/pages/bookmarks/roles_teams_orgs/)
+- [The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
