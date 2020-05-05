@@ -76,6 +76,7 @@ Online Controlled Experiments](https://exp-platform.com/Documents/2017-05-17Emet
 - [Proxy Metrics](https://medium.com/@gibsonbiddle/4-proxy-metrics-a82dd30ca810)
 - [Roles, Teams, Orgs](https://pdtenpas.github.io/pages/bookmarks/roles_teams_orgs/)
 - [The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
+- [Forecasting Best Practices](https://microsoft.github.io/forecasting/)
 
 #### Watch
 - [KISS: Keep it SQL, Stupid | DataEngConf SF '18
